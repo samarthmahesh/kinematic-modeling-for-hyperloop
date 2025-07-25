@@ -1,8 +1,5 @@
 # Kinematic-modeling-for-hyperloop
 
-This repo contains simulations of Python simulations to model the 3 phases of a Hyperloop journey. We can observe how independent variables affect dependednt variables. This helps us get the optimum values to operate the pod.
-The variables we are using are **velocity, time, distance**.
-
 ## A rough work on paper showing the v-t graph which represents the 3 phases of the hyperloop
 
  <img width="1718" height="770" alt="image" src="https://github.com/user-attachments/assets/d08ea5e5-9e3e-4371-9221-39401ac4f270" />
